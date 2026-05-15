@@ -7,7 +7,7 @@ React + Vite client for the ProductHub-style ecommerce API. It provides authenti
 Clone the repository, then enter the frontend directory:
 
 ```bash
-git clone <your-repository-url> ecommerce
+git clone https://github.com/Aditya-P-1/product_crud.git ecommerce
 cd ecommerce/frontend
 ```
 

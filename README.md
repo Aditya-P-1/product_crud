@@ -7,11 +7,11 @@ Monorepo with a **Node.js / Express / MongoDB** backend and a **React / Vite** f
 ## Clone the repository
 
 ```bash
-git clone <your-repository-url> ecommerce
+git clone https://github.com/Aditya-P-1/product_crud.git ecommerce
 cd ecommerce
 ```
 
-Replace `<your-repository-url>` with your Git remote.
+Replace `https://github.com/Aditya-P-1/product_crud.git` with your Git remote.
 
 ---
 

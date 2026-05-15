@@ -72,7 +72,7 @@ src/
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Aditya-P-1/product_crud.git ecommerce
 ```
 
 ---
@@ -80,7 +80,7 @@ git clone <your-repository-url>
 ## Navigate to Backend
 
 ```bash
-cd backend
+cd ecommerce/backend
 ```
 
 ---
