@@ -1,7 +1,10 @@
 {
 	"info": {
+		"_postman_id": "b645bae8-24a1-43a4-ad25-f92f89e78c8d",
 		"name": "Ecommerce",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47885238",
+		"_collection_link": "https://aniketpatidar-4058221.postman.co/workspace/_workspace_~aa08bb4b-f674-4e50-855e-0ac418300a17/collection/47885238-b645bae8-24a1-43a4-ad25-f92f89e78c8d?action=share&source=collection_link&creator=47885238"
 	},
 	"item": [
 		{
@@ -103,7 +106,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2YTA1YTQ0NjQ0MDJlYjAyOWFjYzQwNDMiLCJpYXQiOjE3Nzg3NTQ3ODcsImV4cCI6MTc3OTM1OTU4N30.7P9tcsmcfPT07RHUw5k3QxHmYpzI-pDyn78VBaXnnWM",
+								"value": "Bearer {{token}}",
 								"type": "text"
 							}
 						],
@@ -137,7 +140,7 @@
 						"header": [
 							{
 								"key": "Authorization",
-								"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2YTA1YTQ0NjQ0MDJlYjAyOWFjYzQwNDMiLCJpYXQiOjE3Nzg3NTQ3ODcsImV4cCI6MTc3OTM1OTU4N30.7P9tcsmcfPT07RHUw5k3QxHmYpzI-pDyn78VBaXnnWM",
+								"value": "Bearer {{token}}",
 								"type": "text"
 							}
 						],
